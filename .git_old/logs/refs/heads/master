@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 4807e1aa122ceeaf913ac85a2de8b5721887c9cc Ansumane Mané <manoansu@gmail.com> 1622046201 +0100	commit (initial): initial commit
+4807e1aa122ceeaf913ac85a2de8b5721887c9cc 8378eefbfdb05a717664b7ec608812eab88ff579 Ansumane Mané <manoansu@gmail.com> 1622106217 +0100	commit: Angular material instalado no projeto
+8378eefbfdb05a717664b7ec608812eab88ff579 55d03aa07063e905d998a7e2ffd53123da4c6966 Ansumane Mané <manoansu@gmail.com> 1622112628 +0100	commit: home implementado com rota
+55d03aa07063e905d998a7e2ffd53123da4c6966 84c058ae3b31c786fa7ea55fbab00e14b877aaf0 Ansumane Mané <manoansu@gmail.com> 1622128913 +0100	commit: categoria-read foi implementado
+84c058ae3b31c786fa7ea55fbab00e14b877aaf0 fcb3fd551047446e36d23ebfc65ee35c1bb1597f Ansumane Mané <manoansu@gmail.com> 1622131892 +0100	commit: ajustes no componente read
+fcb3fd551047446e36d23ebfc65ee35c1bb1597f f87c40df17248520a3c71b9462901e2e3bea351e Ansumane Mané <manoansu@gmail.com> 1622227478 +0100	commit: Metodo create de categoria implementado
+f87c40df17248520a3c71b9462901e2e3bea351e 37c35f6204a2d7ce8c3c2c67e1ce290e41149452 Ansumane Mané <manoansu@gmail.com> 1622227931 +0100	commit: Finalizando o metodo create
+37c35f6204a2d7ce8c3c2c67e1ce290e41149452 104cfa775a2aa96b1b261b3f049dd8cdf15ef8d8 Ansumane Mané <manoansu@gmail.com> 1622463209 +0100	commit: Metodo Delete de categoria implementado
+104cfa775a2aa96b1b261b3f049dd8cdf15ef8d8 6877311e2588ca5aa67db9255daf07aad72c1e16 Ansumane Mané <manoansu@gmail.com> 1622471175 +0100	commit: Update para a categoria foi implementado
+6877311e2588ca5aa67db9255daf07aad72c1e16 48e2ab22010a84af45a731f097b1d7971865b2e4 Ansumane Mané <manoansu@gmail.com> 1622478173 +0100	commit: Leitura de todos os livros de categoria implementado
+48e2ab22010a84af45a731f097b1d7971865b2e4 2bde17c6882627e0a8b9f1113b729078a7f392aa Ansumane Mané <manoansu@gmail.com> 1622554510 +0100	commit: UPDATE para livro implementado
+2bde17c6882627e0a8b9f1113b729078a7f392aa 5cb0d902f7f89ccb2579e38d53f94dab2815c58a Ansumane Mané <manoansu@gmail.com> 1622556670 +0100	commit: DELETE para livro implementado
+5cb0d902f7f89ccb2579e38d53f94dab2815c58a fa78a56d10dc4c7f48f8d310916cc817cf9c7a4a Ansumane Mané <manoansu@gmail.com> 1622563631 +0100	commit: READ para livro implementado

@@ -1,0 +1,16 @@
+.home{
+    width: 95%;
+    margin: 1rem auto;
+}
+
+@midia{max-width: 450px;}{
+    .home{
+        width: 70%;
+    }
+}
+
+@midia{max-width: 770px;}{
+    .home{
+        width: 90%;
+    }
+}
